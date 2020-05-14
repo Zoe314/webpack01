@@ -1,0 +1,6 @@
+/* 若不在index.js中引入，在这里引入，需要重新配置config.js */
+@import "./a.less"; 
+div{
+    background: red;
+    transform: rotate(45deg);
+}
